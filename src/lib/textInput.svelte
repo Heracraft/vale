@@ -1,0 +1,1 @@
+<input type="text" id="first_name" class="bg-primary-200 border-b-2 border-primary-400 text-primary-900 text-sm  focus:ring-primary-600 focus:border-primary-600 block p-2.5 dark:bg-primary-700 dark:border-primary-600 dark:placeholder-primary-400 dark:text-white dark:focus:ring-primary-600 dark:focus:border-primary-600 outline-none w-48 " placeholder="name" required>
